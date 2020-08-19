@@ -1,5 +1,5 @@
 # Bridges.Solution
-# Bakery
+# Bridges
 
 #### _Index of Bridges via API creation, 7/16/2020_
 
@@ -39,4 +39,4 @@ _{Please contact Frederick Ernest @ frederick.ernest@gmail.com or Thomas Glenn @
 
 ### License
 
-*Copyright (c) 2020 **_Frederick Ernest MIT License_**
+*Copyright (c) 2020 **_Frederick Ernest & Thomas Glenn MIT License_**
